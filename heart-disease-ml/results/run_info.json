@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "test_size": 0.2,
+  "best_model": "KNN",
+  "best_accuracy": 0.9180327868852459,
+  "n_train": 242,
+  "n_test": 61,
+  "numpy": "2.5.3"
+}

@@ -1,0 +1,16 @@
+{
+  "rows": 303,
+  "columns": 14,
+  "missing_total": 6,
+  "missing_by_column": {
+    "ca": 4,
+    "thal": 2
+  },
+  "duplicate_rows": 0,
+  "class_counts": {
+    "0": 164,
+    "1": 139
+  },
+  "positive_rate": 0.45874587458745875,
+  "feature_count": 13
+}
